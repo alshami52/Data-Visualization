@@ -1,0 +1,5594 @@
+[
+  {
+    "px": 0.416,
+    "pz": 2.963,
+    "start": 92.9,
+    "break_angle": -25,
+    "break_length": 3.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.191,
+    "pz": 2.347,
+    "start": 92.8,
+    "break_angle": -40.7,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.518,
+    "pz": 3.284,
+    "start": 94.1,
+    "break_angle": -43.7,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.641,
+    "pz": 1.221,
+    "start": 91,
+    "break_angle": -1.3,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.821,
+    "pz": 2.083,
+    "start": 75.4,
+    "break_angle": 18.4,
+    "break_length": 12,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.627,
+    "pz": 2.397,
+    "start": 92.9,
+    "break_angle": -45.7,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.088,
+    "pz": 1.61,
+    "start": 93.3,
+    "break_angle": -46.3,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.257,
+    "pz": 2.047,
+    "start": 89.3,
+    "break_angle": 7.3,
+    "break_length": 4.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.47,
+    "pz": 2.35,
+    "start": 92.1,
+    "break_angle": -45,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.337,
+    "pz": 1.898,
+    "start": 89.3,
+    "break_angle": 2,
+    "break_length": 4.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.286,
+    "pz": 1.83,
+    "start": 92.6,
+    "break_angle": -39,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.2,
+    "pz": 2.643,
+    "start": 90.5,
+    "break_angle": -34.4,
+    "break_length": 6.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.741,
+    "pz": 2.93,
+    "start": 90.6,
+    "break_angle": -25.5,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.711,
+    "pz": 1.971,
+    "start": 76.3,
+    "break_angle": 11.6,
+    "break_length": 11,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.539,
+    "pz": 1.525,
+    "start": 91.6,
+    "break_angle": -23.8,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.881,
+    "pz": 1.888,
+    "start": 93.1,
+    "break_angle": -40,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.096,
+    "pz": 2.794,
+    "start": 91.1,
+    "break_angle": -30.3,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.365,
+    "pz": 1.518,
+    "start": 92.4,
+    "break_angle": -37.2,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.681,
+    "pz": 0.875,
+    "start": 89.3,
+    "break_angle": 7,
+    "break_length": 5.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.585,
+    "pz": 1.72,
+    "start": 89.5,
+    "break_angle": 38,
+    "break_length": 6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.008,
+    "pz": 2.602,
+    "start": 87.5,
+    "break_angle": -8.1,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.015,
+    "pz": 2.287,
+    "start": 91.6,
+    "break_angle": 21.7,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.703,
+    "pz": 0.22,
+    "start": 76.1,
+    "break_angle": -12.2,
+    "break_length": 15.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.687,
+    "pz": 1.97,
+    "start": 87.2,
+    "break_angle": -7.8,
+    "break_length": 5.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.788,
+    "pz": 1.808,
+    "start": 89.3,
+    "break_angle": -6.2,
+    "break_length": 4.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.807,
+    "pz": -0.489,
+    "start": 76.5,
+    "break_angle": -12.8,
+    "break_length": 15,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.17,
+    "pz": 3.196,
+    "start": 88,
+    "break_angle": -14.5,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.815,
+    "pz": 2.319,
+    "start": 91.8,
+    "break_angle": -1.3,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.937,
+    "pz": -0.95,
+    "start": 77.6,
+    "break_angle": -9.7,
+    "break_length": 15,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.227,
+    "pz": 1.872,
+    "start": 84.3,
+    "break_angle": -9.9,
+    "break_length": 7.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.257,
+    "pz": 0.52,
+    "start": 88.8,
+    "break_angle": -14.2,
+    "break_length": 5.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.677,
+    "pz": 0.901,
+    "start": 76,
+    "break_angle": -12.9,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.346,
+    "pz": 2.334,
+    "start": 91.7,
+    "break_angle": 11.2,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.2,
+    "pz": 2.215,
+    "start": 87.5,
+    "break_angle": -10.3,
+    "break_length": 6.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.598,
+    "pz": 3.51,
+    "start": 87.3,
+    "break_angle": -11.6,
+    "break_length": 4.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.195,
+    "pz": 2.613,
+    "start": 86.9,
+    "break_angle": -8.5,
+    "break_length": 5.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.028,
+    "pz": 1.778,
+    "start": 83.1,
+    "break_angle": -29.8,
+    "break_length": 8.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.253,
+    "pz": 2.26,
+    "start": 91.4,
+    "break_angle": -36.5,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.514,
+    "pz": 2.545,
+    "start": 91.2,
+    "break_angle": -24.7,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.487,
+    "pz": 1.782,
+    "start": 92.8,
+    "break_angle": -26.4,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.33,
+    "pz": 3.179,
+    "start": 75.6,
+    "break_angle": 16.5,
+    "break_length": 11.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.509,
+    "pz": 1.303,
+    "start": 91.7,
+    "break_angle": -30.3,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.201,
+    "pz": 2.143,
+    "start": 90.4,
+    "break_angle": -22,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.249,
+    "pz": 1.977,
+    "start": 91.4,
+    "break_angle": -32,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.658,
+    "pz": 3.823,
+    "start": 89,
+    "break_angle": -27.7,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.326,
+    "pz": 2.904,
+    "start": 90.5,
+    "break_angle": -38.9,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.335,
+    "pz": 2.322,
+    "start": 90.7,
+    "break_angle": -37.4,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.432,
+    "pz": 2.444,
+    "start": 86.8,
+    "break_angle": 0,
+    "break_length": 5.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.311,
+    "pz": 2.22,
+    "start": 91.9,
+    "break_angle": -26.7,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.158,
+    "pz": 1.295,
+    "start": 88.4,
+    "break_angle": -4.2,
+    "break_length": 5.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.614,
+    "pz": 3.961,
+    "start": 89.6,
+    "break_angle": -15.9,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.332,
+    "pz": 1.432,
+    "start": 86.8,
+    "break_angle": 3.1,
+    "break_length": 5.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.008,
+    "pz": 1.418,
+    "start": 75,
+    "break_angle": 13.4,
+    "break_length": 12.3,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.238,
+    "pz": 2.573,
+    "start": 90.5,
+    "break_angle": -28.4,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.389,
+    "pz": 2.689,
+    "start": 87.5,
+    "break_angle": 2.1,
+    "break_length": 5.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.109,
+    "pz": 3.594,
+    "start": 88.1,
+    "break_angle": -29.9,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.583,
+    "pz": 3.549,
+    "start": 85,
+    "break_angle": -12,
+    "break_length": 6.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.193,
+    "pz": 2.679,
+    "start": 90,
+    "break_angle": 3.3,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.22,
+    "pz": 2.078,
+    "start": 87.2,
+    "break_angle": -13,
+    "break_length": 5.3,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.869,
+    "pz": 0.48,
+    "start": 90,
+    "break_angle": 39.2,
+    "break_length": 5.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.071,
+    "pz": 1.899,
+    "start": 86.2,
+    "break_angle": -12.4,
+    "break_length": 6.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.652,
+    "pz": 3.016,
+    "start": 89.3,
+    "break_angle": 0.4,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.62,
+    "pz": -1.66,
+    "start": 78.2,
+    "break_angle": -12.5,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.574,
+    "pz": 2.154,
+    "start": 83.5,
+    "break_angle": -9.2,
+    "break_length": 8.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.031,
+    "pz": 2.166,
+    "start": 91.3,
+    "break_angle": 0.8,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.578,
+    "pz": 0.829,
+    "start": 76.6,
+    "break_angle": -12.6,
+    "break_length": 14.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.865,
+    "pz": 2.673,
+    "start": 86.7,
+    "break_angle": -12.4,
+    "break_length": 5.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.487,
+    "pz": 2.332,
+    "start": 89.2,
+    "break_angle": 5.3,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.38,
+    "pz": 2.801,
+    "start": 86.7,
+    "break_angle": -14.4,
+    "break_length": 4.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.126,
+    "pz": 3.072,
+    "start": 86.3,
+    "break_angle": -7,
+    "break_length": 5.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.317,
+    "pz": 2.771,
+    "start": 89.7,
+    "break_angle": -2.2,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.088,
+    "pz": 2.468,
+    "start": 91.1,
+    "break_angle": -42.9,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.648,
+    "pz": 4.525,
+    "start": 90.5,
+    "break_angle": -26.4,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.975,
+    "pz": 3.347,
+    "start": 90.5,
+    "break_angle": -25.2,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.107,
+    "pz": 1.958,
+    "start": 87.2,
+    "break_angle": 7.2,
+    "break_length": 5.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.024,
+    "pz": 3.08,
+    "start": 86.8,
+    "break_angle": 11.6,
+    "break_length": 6.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.763,
+    "pz": 1.451,
+    "start": 76.1,
+    "break_angle": 18,
+    "break_length": 12,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.705,
+    "pz": 2.215,
+    "start": 91.8,
+    "break_angle": -31.5,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.382,
+    "pz": 2.414,
+    "start": 88.8,
+    "break_angle": -6.2,
+    "break_length": 5.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.042,
+    "pz": 1.848,
+    "start": 76,
+    "break_angle": 14.2,
+    "break_length": 11.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.828,
+    "pz": 2.55,
+    "start": 88.6,
+    "break_angle": 3.2,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.132,
+    "pz": 3.738,
+    "start": 91.3,
+    "break_angle": -31.1,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.184,
+    "pz": 2.626,
+    "start": 92.1,
+    "break_angle": -32,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.838,
+    "pz": 3.593,
+    "start": 75.6,
+    "break_angle": 17.3,
+    "break_length": 11.3,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.482,
+    "pz": 1.956,
+    "start": 73.5,
+    "break_angle": 15.8,
+    "break_length": 12.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.683,
+    "pz": 2.866,
+    "start": 86.3,
+    "break_angle": 4.6,
+    "break_length": 6.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.951,
+    "pz": 3.113,
+    "start": 87.2,
+    "break_angle": 23.6,
+    "break_length": 5.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.099,
+    "pz": 1.567,
+    "start": 86.4,
+    "break_angle": 0.6,
+    "break_length": 4.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.086,
+    "pz": 1.888,
+    "start": 88.6,
+    "break_angle": 17.4,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.83,
+    "pz": 2.09,
+    "start": 85.9,
+    "break_angle": -7.9,
+    "break_length": 5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.919,
+    "pz": -0.02,
+    "start": 75.6,
+    "break_angle": -10.6,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.027,
+    "pz": 3.449,
+    "start": 89.2,
+    "break_angle": 15.6,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.271,
+    "pz": 2.746,
+    "start": 86.5,
+    "break_angle": -6.2,
+    "break_length": 5.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.35,
+    "pz": 3.234,
+    "start": 88.7,
+    "break_angle": -6.5,
+    "break_length": 3.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.594,
+    "pz": 1.566,
+    "start": 74.9,
+    "break_angle": -14.9,
+    "break_length": 15,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.112,
+    "pz": 3.144,
+    "start": 85.7,
+    "break_angle": -12.1,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.219,
+    "pz": 0.348,
+    "start": 76.6,
+    "break_angle": -11,
+    "break_length": 15.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.342,
+    "pz": 1.056,
+    "start": 76.6,
+    "break_angle": -11.2,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.255,
+    "pz": 3.166,
+    "start": 90,
+    "break_angle": 10.2,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.941,
+    "pz": 1.441,
+    "start": 73.9,
+    "break_angle": -15,
+    "break_length": 16,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.744,
+    "pz": 0.732,
+    "start": 76.7,
+    "break_angle": -12.4,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.949,
+    "pz": 2.591,
+    "start": 86.1,
+    "break_angle": -12.9,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.19,
+    "pz": 2.71,
+    "start": 77.1,
+    "break_angle": -14,
+    "break_length": 14.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.516,
+    "pz": 1.757,
+    "start": 76.7,
+    "break_angle": -12.2,
+    "break_length": 14.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.746,
+    "pz": 3.828,
+    "start": 89.4,
+    "break_angle": -10.9,
+    "break_length": 4.3,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.612,
+    "pz": 1.909,
+    "start": 85.3,
+    "break_angle": -12.3,
+    "break_length": 7.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.326,
+    "pz": 0.717,
+    "start": 76.2,
+    "break_angle": -12.7,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.062,
+    "pz": 2.905,
+    "start": 74.4,
+    "break_angle": -13.1,
+    "break_length": 15.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.238,
+    "pz": 2.628,
+    "start": 88.8,
+    "break_angle": 32.3,
+    "break_length": 5.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.95,
+    "pz": 0.824,
+    "start": 83.7,
+    "break_angle": 32.4,
+    "break_length": 6.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.608,
+    "pz": 1.926,
+    "start": 73.8,
+    "break_angle": -13.9,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.459,
+    "pz": 1.389,
+    "start": 76.3,
+    "break_angle": -12.4,
+    "break_length": 15,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.438,
+    "pz": 1.062,
+    "start": 89.7,
+    "break_angle": -32.6,
+    "break_length": 3.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 2.387,
+    "pz": 2.976,
+    "start": 80.1,
+    "break_angle": -25.5,
+    "break_length": 8.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.252,
+    "pz": 1.357,
+    "start": 90.8,
+    "break_angle": -36.3,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.056,
+    "pz": 3.286,
+    "start": 89.2,
+    "break_angle": -29.9,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.994,
+    "pz": 3.415,
+    "start": 89.4,
+    "break_angle": -23.9,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.025,
+    "pz": 3.91,
+    "start": 87.2,
+    "break_angle": 3.7,
+    "break_length": 5.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.162,
+    "pz": 2.704,
+    "start": 89.2,
+    "break_angle": -28.6,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.369,
+    "pz": 2.954,
+    "start": 90.8,
+    "break_angle": -30,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.417,
+    "pz": 3.514,
+    "start": 91.8,
+    "break_angle": -27.4,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.235,
+    "pz": 1.406,
+    "start": 86.8,
+    "break_angle": 3.5,
+    "break_length": 6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.704,
+    "pz": 2.331,
+    "start": 89.1,
+    "break_angle": -32.8,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.286,
+    "pz": 1.65,
+    "start": 83.6,
+    "break_angle": 6.8,
+    "break_length": 6.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.39,
+    "pz": 1.794,
+    "start": 85,
+    "break_angle": -26.5,
+    "break_length": 6.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.831,
+    "pz": 2.095,
+    "start": 86.7,
+    "break_angle": 5.2,
+    "break_length": 6.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.479,
+    "pz": 2.118,
+    "start": 91,
+    "break_angle": -30.9,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.071,
+    "pz": 2.632,
+    "start": 83,
+    "break_angle": 12.3,
+    "break_length": 6.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.382,
+    "pz": 1.312,
+    "start": 73.6,
+    "break_angle": 12.1,
+    "break_length": 13.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.14,
+    "pz": 1.891,
+    "start": 90.7,
+    "break_angle": -27.8,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.832,
+    "pz": 2.752,
+    "start": 84.1,
+    "break_angle": -12.2,
+    "break_length": 6.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.334,
+    "pz": 0.538,
+    "start": 73.2,
+    "break_angle": -12.9,
+    "break_length": 16.2,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.083,
+    "pz": 2.54,
+    "start": 88.6,
+    "break_angle": 6.3,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.626,
+    "pz": 1.707,
+    "start": 88.3,
+    "break_angle": 23.1,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.095,
+    "pz": 2.376,
+    "start": 86.6,
+    "break_angle": 6.9,
+    "break_length": 4.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.978,
+    "pz": 0.224,
+    "start": 75.7,
+    "break_angle": -9.9,
+    "break_length": 15.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.113,
+    "pz": 1.353,
+    "start": 88.4,
+    "break_angle": 15.3,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.073,
+    "pz": 2.471,
+    "start": 89.7,
+    "break_angle": 23.4,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.336,
+    "pz": 2.492,
+    "start": 85.5,
+    "break_angle": -7,
+    "break_length": 7.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.639,
+    "pz": 1.311,
+    "start": 89.9,
+    "break_angle": -19.8,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.825,
+    "pz": 1.758,
+    "start": 86.3,
+    "break_angle": 10.5,
+    "break_length": 5.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.208,
+    "pz": 2.443,
+    "start": 87.4,
+    "break_angle": -25.9,
+    "break_length": 6.9,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.975,
+    "pz": 3.392,
+    "start": 89,
+    "break_angle": -21.2,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.702,
+    "pz": 2.807,
+    "start": 88.2,
+    "break_angle": -21,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.302,
+    "pz": 2.446,
+    "start": 84.7,
+    "break_angle": 8.9,
+    "break_length": 6.3,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.318,
+    "pz": 1.025,
+    "start": 72.7,
+    "break_angle": 11.2,
+    "break_length": 12.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.635,
+    "pz": 2.235,
+    "start": 85.6,
+    "break_angle": 0.1,
+    "break_length": 6.3,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.796,
+    "pz": 2.702,
+    "start": 88.8,
+    "break_angle": -23.7,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.941,
+    "pz": 2.231,
+    "start": 85.2,
+    "break_angle": -28.6,
+    "break_length": 6.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.49,
+    "pz": 2.436,
+    "start": 90.1,
+    "break_angle": -24.2,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.912,
+    "pz": 2.077,
+    "start": 89.6,
+    "break_angle": -33.4,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.397,
+    "pz": 2.326,
+    "start": 87.5,
+    "break_angle": 6.2,
+    "break_length": 5.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.019,
+    "pz": 2.254,
+    "start": 88.9,
+    "break_angle": -29.2,
+    "break_length": 7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.55,
+    "pz": 2.932,
+    "start": 87.6,
+    "break_angle": 6,
+    "break_length": 5.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.696,
+    "pz": 2.123,
+    "start": 91.6,
+    "break_angle": -37,
+    "break_length": 6.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.613,
+    "pz": 2.997,
+    "start": 92.7,
+    "break_angle": -16.1,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.378,
+    "pz": 1.927,
+    "start": 92.8,
+    "break_angle": -23.9,
+    "break_length": 2.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 4.828,
+    "pz": 5.211,
+    "start": 68.3,
+    "break_angle": -0.5,
+    "break_length": 8.8,
+    "pitch_type": "IN"
+  },
+  {
+    "px": 4.721,
+    "pz": 5.647,
+    "start": 74.1,
+    "break_angle": -9.9,
+    "break_length": 7.2,
+    "pitch_type": "IN"
+  },
+  {
+    "px": 5.134,
+    "pz": 4.982,
+    "start": 72.2,
+    "break_angle": -8.1,
+    "break_length": 7.3,
+    "pitch_type": "IN"
+  },
+  {
+    "px": 4.976,
+    "pz": 4.922,
+    "start": 71,
+    "break_angle": -4,
+    "break_length": 7.8,
+    "pitch_type": "IN"
+  },
+  {
+    "px": 1.036,
+    "pz": 2.21,
+    "start": 90.3,
+    "break_angle": -37.4,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.614,
+    "pz": 3.043,
+    "start": 91.8,
+    "break_angle": -21.1,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.709,
+    "pz": 1.136,
+    "start": 78.9,
+    "break_angle": 4,
+    "break_length": 12,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.169,
+    "pz": 1.504,
+    "start": 92.7,
+    "break_angle": -36.2,
+    "break_length": 7.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.431,
+    "pz": 3.143,
+    "start": 83.3,
+    "break_angle": -8.7,
+    "break_length": 7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.697,
+    "pz": 2.392,
+    "start": 84.2,
+    "break_angle": -10.6,
+    "break_length": 6.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.429,
+    "pz": 3.164,
+    "start": 88.2,
+    "break_angle": 6.2,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.783,
+    "pz": 1.509,
+    "start": 74.9,
+    "break_angle": -12.2,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.379,
+    "pz": 4.637,
+    "start": 83.8,
+    "break_angle": -12.9,
+    "break_length": 7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.4,
+    "pz": 2.712,
+    "start": 85.2,
+    "break_angle": -4.9,
+    "break_length": 6.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.668,
+    "pz": 4.388,
+    "start": 84.9,
+    "break_angle": -15,
+    "break_length": 6.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.503,
+    "pz": 1.753,
+    "start": 88.7,
+    "break_angle": 13.3,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.017,
+    "pz": 2.364,
+    "start": 84.6,
+    "break_angle": -14.3,
+    "break_length": 7.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.351,
+    "pz": 1.759,
+    "start": 88.4,
+    "break_angle": 0,
+    "break_length": 3.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.405,
+    "pz": 2.79,
+    "start": 84.4,
+    "break_angle": -12.5,
+    "break_length": 6.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.125,
+    "pz": 2.428,
+    "start": 86.2,
+    "break_angle": 14.8,
+    "break_length": 5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.693,
+    "pz": 1.823,
+    "start": 88.3,
+    "break_angle": 10.7,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.395,
+    "pz": 2.862,
+    "start": 88.3,
+    "break_angle": 12.9,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.596,
+    "pz": 2.909,
+    "start": 72.4,
+    "break_angle": -16.4,
+    "break_length": 15.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.304,
+    "pz": 2.151,
+    "start": 86.9,
+    "break_angle": -9.4,
+    "break_length": 5.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.503,
+    "pz": 3.483,
+    "start": 88.5,
+    "break_angle": 2.3,
+    "break_length": 3.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.403,
+    "pz": 1.709,
+    "start": 74.9,
+    "break_angle": -11.1,
+    "break_length": 15.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.063,
+    "pz": 2.452,
+    "start": 91.5,
+    "break_angle": 38.6,
+    "break_length": 5.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.654,
+    "pz": 2.81,
+    "start": 93.5,
+    "break_angle": 44.2,
+    "break_length": 3.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.911,
+    "pz": 2.589,
+    "start": 95.1,
+    "break_angle": 36.6,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.318,
+    "pz": 3.151,
+    "start": 94,
+    "break_angle": 39.6,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.21,
+    "pz": 2.937,
+    "start": 94.5,
+    "break_angle": 40,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.246,
+    "pz": 2.389,
+    "start": 95.6,
+    "break_angle": 35,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.917,
+    "pz": 2.938,
+    "start": 96.2,
+    "break_angle": 37.5,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.496,
+    "pz": 2.793,
+    "start": 92.2,
+    "break_angle": 34.4,
+    "break_length": 6.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.242,
+    "pz": 3.889,
+    "start": 92.8,
+    "break_angle": 33.1,
+    "break_length": 5.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.308,
+    "pz": 2.28,
+    "start": 94.5,
+    "break_angle": 40.4,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.714,
+    "pz": 2.967,
+    "start": 95.5,
+    "break_angle": 37,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.343,
+    "pz": 1.94,
+    "start": 95.4,
+    "break_angle": 47,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.815,
+    "pz": 2.303,
+    "start": 94.5,
+    "break_angle": 53.9,
+    "break_length": 2.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.054,
+    "pz": 1.113,
+    "start": 93.5,
+    "break_angle": 40.5,
+    "break_length": 6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.6,
+    "pz": 1.989,
+    "start": 86.8,
+    "break_angle": 14.9,
+    "break_length": 4.3,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.098,
+    "pz": 1.753,
+    "start": 83.6,
+    "break_angle": -8.2,
+    "break_length": 5.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.323,
+    "pz": 4.504,
+    "start": 82.6,
+    "break_angle": -16.1,
+    "break_length": 7.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.217,
+    "pz": 2.252,
+    "start": 85.4,
+    "break_angle": 7.3,
+    "break_length": 4.8,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.156,
+    "pz": 2.793,
+    "start": 87.9,
+    "break_angle": 8.7,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.162,
+    "pz": 2.211,
+    "start": 89.1,
+    "break_angle": 9.1,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.28,
+    "pz": 2.707,
+    "start": 83.7,
+    "break_angle": -13.3,
+    "break_length": 7.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.474,
+    "pz": 3.202,
+    "start": 86.8,
+    "break_angle": 34.5,
+    "break_length": 6.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -1.564,
+    "pz": 3.062,
+    "start": 82.5,
+    "break_angle": 31.7,
+    "break_length": 8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.172,
+    "pz": 1.906,
+    "start": 87.3,
+    "break_angle": 1.4,
+    "break_length": 4.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.637,
+    "pz": 2.7,
+    "start": 84.3,
+    "break_angle": -16.4,
+    "break_length": 7.2,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.466,
+    "pz": 2.09,
+    "start": 72.3,
+    "break_angle": -14.7,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.656,
+    "pz": 3.272,
+    "start": 87.7,
+    "break_angle": 0.1,
+    "break_length": 4.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.728,
+    "pz": 1.531,
+    "start": 74.7,
+    "break_angle": -11.6,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.281,
+    "pz": 2.2,
+    "start": 89.6,
+    "break_angle": 7.7,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.319,
+    "pz": 2.921,
+    "start": 86,
+    "break_angle": -2.2,
+    "break_length": 6.1,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -1.298,
+    "pz": 0.716,
+    "start": 73.1,
+    "break_angle": -10.9,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.141,
+    "pz": 2.832,
+    "start": 83.6,
+    "break_angle": -6.5,
+    "break_length": 7.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.4,
+    "pz": 2.564,
+    "start": 91.2,
+    "break_angle": 35.2,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.853,
+    "pz": 2.216,
+    "start": 93.4,
+    "break_angle": 24.6,
+    "break_length": 2.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.133,
+    "pz": 1.1,
+    "start": 84,
+    "break_angle": -6.7,
+    "break_length": 8.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.614,
+    "pz": 2.692,
+    "start": 92.7,
+    "break_angle": 28.5,
+    "break_length": 2.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.313,
+    "pz": 1.552,
+    "start": 82.9,
+    "break_angle": -10.4,
+    "break_length": 8.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 2.44,
+    "pz": 1.676,
+    "start": 85.1,
+    "break_angle": -9.6,
+    "break_length": 8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.007,
+    "pz": 3.343,
+    "start": 84.3,
+    "break_angle": -10.8,
+    "break_length": 7.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.772,
+    "pz": 3.005,
+    "start": 92.4,
+    "break_angle": 24.3,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.933,
+    "pz": 1.083,
+    "start": 91.8,
+    "break_angle": 29.1,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.005,
+    "pz": 1.903,
+    "start": 91.8,
+    "break_angle": 23.9,
+    "break_length": 3.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.533,
+    "pz": 1.321,
+    "start": 92.7,
+    "break_angle": 24,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.567,
+    "pz": 0.488,
+    "start": 91.9,
+    "break_angle": 35.5,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.37,
+    "pz": 2.028,
+    "start": 89.4,
+    "break_angle": 23.4,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.93,
+    "pz": 3.192,
+    "start": 91.6,
+    "break_angle": 37.1,
+    "break_length": 6.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.719,
+    "pz": 2.402,
+    "start": 91.8,
+    "break_angle": 36.6,
+    "break_length": 6.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.92,
+    "pz": 0.004,
+    "start": 85.3,
+    "break_angle": 33.9,
+    "break_length": 9.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.039,
+    "pz": 2.032,
+    "start": 94.1,
+    "break_angle": 22.8,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.931,
+    "pz": 0.542,
+    "start": 92.3,
+    "break_angle": 39.4,
+    "break_length": 6.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.571,
+    "pz": 2.112,
+    "start": 93,
+    "break_angle": 29.6,
+    "break_length": 4.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.055,
+    "pz": 1.454,
+    "start": 94.1,
+    "break_angle": 32.2,
+    "break_length": 3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.092,
+    "pz": 1.299,
+    "start": 92.2,
+    "break_angle": 33.6,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.527,
+    "pz": 1.96,
+    "start": 85.5,
+    "break_angle": 31.3,
+    "break_length": 9.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -2.387,
+    "pz": 1.338,
+    "start": 84.9,
+    "break_angle": 28.4,
+    "break_length": 9.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.028,
+    "pz": 1.501,
+    "start": 84.5,
+    "break_angle": 31.4,
+    "break_length": 8.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.081,
+    "pz": 0.867,
+    "start": 93.6,
+    "break_angle": 21.8,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.642,
+    "pz": 2.407,
+    "start": 92.6,
+    "break_angle": 19.8,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.562,
+    "pz": 2.244,
+    "start": 84.3,
+    "break_angle": 26.6,
+    "break_length": 7.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.007,
+    "pz": 1.21,
+    "start": 82.7,
+    "break_angle": -20.4,
+    "break_length": 9.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.639,
+    "pz": 3.037,
+    "start": 80.7,
+    "break_angle": -23.8,
+    "break_length": 10.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.728,
+    "pz": 2.203,
+    "start": 94.1,
+    "break_angle": 31.6,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.865,
+    "pz": 1.825,
+    "start": 81.8,
+    "break_angle": 1.2,
+    "break_length": 9.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.354,
+    "pz": 3.048,
+    "start": 92.9,
+    "break_angle": 38.7,
+    "break_length": 6.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.249,
+    "pz": 2.887,
+    "start": 92.9,
+    "break_angle": 43.2,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.468,
+    "pz": 2.184,
+    "start": 82.4,
+    "break_angle": -8.1,
+    "break_length": 8.5,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.219,
+    "pz": 0.16,
+    "start": 81.1,
+    "break_angle": -6.7,
+    "break_length": 8.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.33,
+    "pz": 3.418,
+    "start": 93.4,
+    "break_angle": 40.8,
+    "break_length": 5.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.025,
+    "pz": 1.791,
+    "start": 93.7,
+    "break_angle": 36.8,
+    "break_length": 6.7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.756,
+    "pz": 1.488,
+    "start": 83.1,
+    "break_angle": -4.1,
+    "break_length": 9.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.79,
+    "pz": 1.062,
+    "start": 93.4,
+    "break_angle": 34.3,
+    "break_length": 7.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.189,
+    "pz": 1.704,
+    "start": 93,
+    "break_angle": 35.6,
+    "break_length": 6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.402,
+    "pz": 1.793,
+    "start": 82.2,
+    "break_angle": -2.2,
+    "break_length": 9.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -2.192,
+    "pz": 3.296,
+    "start": 93.3,
+    "break_angle": 37.9,
+    "break_length": 5.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.034,
+    "pz": 1.018,
+    "start": 95.3,
+    "break_angle": 42.7,
+    "break_length": 5.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.09,
+    "pz": 3.214,
+    "start": 93.3,
+    "break_angle": 41.2,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.686,
+    "pz": 1.511,
+    "start": 81.5,
+    "break_angle": -6.4,
+    "break_length": 9.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.009,
+    "pz": 1.856,
+    "start": 83.1,
+    "break_angle": -3.1,
+    "break_length": 8.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.734,
+    "pz": 1.534,
+    "start": 93.4,
+    "break_angle": 41.5,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.436,
+    "pz": 2.314,
+    "start": 93.1,
+    "break_angle": 36.3,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.15,
+    "pz": 1.306,
+    "start": 85,
+    "break_angle": 29.6,
+    "break_length": 8.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.087,
+    "pz": 4.146,
+    "start": 93.9,
+    "break_angle": 43.9,
+    "break_length": 5.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.018,
+    "pz": 2.204,
+    "start": 92.2,
+    "break_angle": 38.4,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.353,
+    "pz": 2.354,
+    "start": 85.9,
+    "break_angle": 33.5,
+    "break_length": 7.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.534,
+    "pz": 1.663,
+    "start": 84.2,
+    "break_angle": -6.5,
+    "break_length": 8.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.041,
+    "pz": 1.389,
+    "start": 84,
+    "break_angle": -8.3,
+    "break_length": 8.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.03,
+    "pz": 1.714,
+    "start": 95.1,
+    "break_angle": 42.9,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.459,
+    "pz": 2.111,
+    "start": 93.5,
+    "break_angle": 50.2,
+    "break_length": 5.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.258,
+    "pz": 1.062,
+    "start": 93.7,
+    "break_angle": 55.1,
+    "break_length": 5.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.498,
+    "pz": 1.945,
+    "start": 86.2,
+    "break_angle": 35.3,
+    "break_length": 7.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.281,
+    "pz": 1.885,
+    "start": 94.3,
+    "break_angle": 49.5,
+    "break_length": 5.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.139,
+    "pz": 0.927,
+    "start": 86,
+    "break_angle": 36.6,
+    "break_length": 8.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.806,
+    "pz": 0.988,
+    "start": 86.2,
+    "break_angle": 32.7,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.445,
+    "pz": 1.234,
+    "start": 94.9,
+    "break_angle": 46.5,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.001,
+    "pz": 2.621,
+    "start": 93.7,
+    "break_angle": 50,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.123,
+    "pz": 2.352,
+    "start": 94.8,
+    "break_angle": 37.8,
+    "break_length": 4.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.52,
+    "pz": 0.474,
+    "start": 86.4,
+    "break_angle": -9.8,
+    "break_length": 7.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.352,
+    "pz": 2.263,
+    "start": 94.3,
+    "break_angle": 48.8,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.326,
+    "pz": 1.692,
+    "start": 95.3,
+    "break_angle": 43.1,
+    "break_length": 5.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.241,
+    "pz": 3.547,
+    "start": 95.4,
+    "break_angle": 30.7,
+    "break_length": 2.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.298,
+    "pz": 1.604,
+    "start": 96.4,
+    "break_angle": 47.6,
+    "break_length": 3.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.131,
+    "pz": -0.908,
+    "start": 84.6,
+    "break_angle": -1.3,
+    "break_length": 9.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.279,
+    "pz": 2.656,
+    "start": 94.1,
+    "break_angle": 24.7,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.217,
+    "pz": 2.804,
+    "start": 94.3,
+    "break_angle": 21.4,
+    "break_length": 2.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.002,
+    "pz": 2.325,
+    "start": 94.1,
+    "break_angle": 38.7,
+    "break_length": 5.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.836,
+    "pz": 2.89,
+    "start": 95.4,
+    "break_angle": 41.8,
+    "break_length": 3.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.354,
+    "pz": 2.886,
+    "start": 83.9,
+    "break_angle": -15,
+    "break_length": 8.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.098,
+    "pz": 2.955,
+    "start": 94.8,
+    "break_angle": 32.8,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.535,
+    "pz": 4.501,
+    "start": 94.2,
+    "break_angle": 30.3,
+    "break_length": 5.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.848,
+    "pz": 3.04,
+    "start": 95.3,
+    "break_angle": 39.5,
+    "break_length": 3.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.29,
+    "pz": 0.407,
+    "start": 85.1,
+    "break_angle": -6.1,
+    "break_length": 9.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 2.456,
+    "pz": 0.033,
+    "start": 85.2,
+    "break_angle": -12.2,
+    "break_length": 8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.207,
+    "pz": 0.808,
+    "start": 84.2,
+    "break_angle": -11.6,
+    "break_length": 9.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.215,
+    "pz": 3.586,
+    "start": 93,
+    "break_angle": 28.8,
+    "break_length": 3.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.161,
+    "pz": 3.172,
+    "start": 94,
+    "break_angle": 23.9,
+    "break_length": 2.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.734,
+    "pz": 1.747,
+    "start": 94.9,
+    "break_angle": 28.9,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.735,
+    "pz": 2.166,
+    "start": 96.2,
+    "break_angle": 14.5,
+    "break_length": 2.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.177,
+    "pz": 3.388,
+    "start": 85.6,
+    "break_angle": 33.3,
+    "break_length": 7.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.135,
+    "pz": 1.445,
+    "start": 86.6,
+    "break_angle": 32.7,
+    "break_length": 6.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.671,
+    "pz": 1.812,
+    "start": 97.7,
+    "break_angle": 23.7,
+    "break_length": 2.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.956,
+    "pz": 4.629,
+    "start": 78.4,
+    "break_angle": -16,
+    "break_length": 10,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.629,
+    "pz": 1.53,
+    "start": 94.4,
+    "break_angle": 9.7,
+    "break_length": 2.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.377,
+    "pz": 2.131,
+    "start": 97.1,
+    "break_angle": 42.5,
+    "break_length": 3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.02,
+    "pz": 2.926,
+    "start": 97.4,
+    "break_angle": 32.5,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.087,
+    "pz": 3.751,
+    "start": 97.8,
+    "break_angle": 18.4,
+    "break_length": 2.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.082,
+    "pz": 1.057,
+    "start": 97.2,
+    "break_angle": 46.4,
+    "break_length": 3.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.468,
+    "pz": 0.907,
+    "start": 97.3,
+    "break_angle": 46.6,
+    "break_length": 2.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.871,
+    "pz": 2.8,
+    "start": 96.3,
+    "break_angle": 33.8,
+    "break_length": 2.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.842,
+    "pz": 2.133,
+    "start": 96.7,
+    "break_angle": 45.9,
+    "break_length": 3.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.377,
+    "pz": 2.97,
+    "start": 86,
+    "break_angle": 33.1,
+    "break_length": 5.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.313,
+    "pz": 3.591,
+    "start": 97.4,
+    "break_angle": 30.8,
+    "break_length": 2.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.02,
+    "pz": 1.75,
+    "start": 89.5,
+    "break_angle": 16.3,
+    "break_length": 8.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.22,
+    "pz": 1.77,
+    "start": 79.1,
+    "break_angle": -11.9,
+    "break_length": 15.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.38,
+    "pz": 1.94,
+    "start": 92.3,
+    "break_angle": 2,
+    "break_length": 7.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -1.2,
+    "pz": 1.5,
+    "start": 91.2,
+    "break_angle": 18.3,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.63,
+    "pz": 3.31,
+    "start": 92.1,
+    "break_angle": 4.6,
+    "break_length": 6.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.55,
+    "pz": 3.19,
+    "start": 91,
+    "break_angle": 9.3,
+    "break_length": 6.9,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.44,
+    "pz": 2.84,
+    "start": 91.4,
+    "break_angle": 6.1,
+    "break_length": 7.2,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.52,
+    "pz": 2.33,
+    "start": 91.7,
+    "break_angle": 7,
+    "break_length": 6.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.69,
+    "pz": 2.17,
+    "start": 91.5,
+    "break_angle": 0.8,
+    "break_length": 7.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.16,
+    "pz": -0.46,
+    "start": 89,
+    "break_angle": 3.9,
+    "break_length": 10.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.25,
+    "pz": 2.57,
+    "start": 91.9,
+    "break_angle": 6.7,
+    "break_length": 7.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.42,
+    "pz": 0.55,
+    "start": 87.9,
+    "break_angle": 14.8,
+    "break_length": 11.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.59,
+    "pz": 1.78,
+    "start": 91.9,
+    "break_angle": 20.9,
+    "break_length": 10.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.38,
+    "pz": 0.86,
+    "start": 87.4,
+    "break_angle": 10.3,
+    "break_length": 11.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.15,
+    "pz": 1.73,
+    "start": 90.5,
+    "break_angle": 15,
+    "break_length": 8.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.05,
+    "pz": 0.77,
+    "start": 84.6,
+    "break_angle": -2.7,
+    "break_length": 12.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.06,
+    "pz": 0.52,
+    "start": 88.4,
+    "break_angle": 13.5,
+    "break_length": 10.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.14,
+    "pz": 1.59,
+    "start": 91.4,
+    "break_angle": -0.3,
+    "break_length": 7.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.67,
+    "pz": 1.4,
+    "start": 91.8,
+    "break_angle": 16,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.34,
+    "pz": 2.64,
+    "start": 78.5,
+    "break_angle": -12.5,
+    "break_length": 15.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.13,
+    "pz": 1.28,
+    "start": 87.6,
+    "break_angle": 11,
+    "break_length": 12,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.13,
+    "pz": 3.91,
+    "start": 81.3,
+    "break_angle": -4.7,
+    "break_length": 7.6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.86,
+    "pz": 2.54,
+    "start": 81.9,
+    "break_angle": -5.9,
+    "break_length": 7.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.98,
+    "pz": 4.3,
+    "start": 82.8,
+    "break_angle": 10.4,
+    "break_length": 7.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.07,
+    "pz": 2.78,
+    "start": 83.1,
+    "break_angle": 9.1,
+    "break_length": 7.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.28,
+    "pz": 2.37,
+    "start": 66.6,
+    "break_angle": -13.1,
+    "break_length": 17.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.06,
+    "pz": 1.29,
+    "start": 65.5,
+    "break_angle": -11.8,
+    "break_length": 18.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.17,
+    "pz": 1.67,
+    "start": 81.4,
+    "break_angle": 9.4,
+    "break_length": 9.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.01,
+    "pz": 1.95,
+    "start": 82.2,
+    "break_angle": 9.5,
+    "break_length": 8.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -2.35,
+    "pz": 4.4,
+    "start": 82.6,
+    "break_angle": 6.3,
+    "break_length": 7.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": "",
+    "pz": "",
+    "start": "",
+    "break_angle": "",
+    "break_length": "",
+    "pitch_type": ""
+  },
+  {
+    "px": -1.12,
+    "pz": 2.28,
+    "start": 77.2,
+    "break_angle": 10.2,
+    "break_length": 9.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.37,
+    "pz": 3.46,
+    "start": 82.6,
+    "break_angle": 12.1,
+    "break_length": 8.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.47,
+    "pz": 4.54,
+    "start": 82.8,
+    "break_angle": 12.5,
+    "break_length": 7.7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.23,
+    "pz": 3.5,
+    "start": 75,
+    "break_angle": 9.1,
+    "break_length": 9.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.28,
+    "pz": 3.86,
+    "start": 82.9,
+    "break_angle": -5.1,
+    "break_length": 6.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.6,
+    "pz": 4.55,
+    "start": 82.3,
+    "break_angle": -3.2,
+    "break_length": 7.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.05,
+    "pz": 1.73,
+    "start": 66.3,
+    "break_angle": -11.1,
+    "break_length": 18.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.01,
+    "pz": 2.85,
+    "start": 81.7,
+    "break_angle": -3.7,
+    "break_length": 7.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.24,
+    "pz": 1.95,
+    "start": 73.5,
+    "break_angle": -12.4,
+    "break_length": 15.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.64,
+    "pz": 1.58,
+    "start": 75.4,
+    "break_angle": -7.9,
+    "break_length": 14.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.58,
+    "pz": 3.7,
+    "start": 89.1,
+    "break_angle": 19.6,
+    "break_length": 8.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.57,
+    "pz": 2.31,
+    "start": 89.8,
+    "break_angle": 16.8,
+    "break_length": 9.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.02,
+    "pz": 0.43,
+    "start": 86.1,
+    "break_angle": 17.7,
+    "break_length": 10.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.46,
+    "pz": 3.29,
+    "start": 89.5,
+    "break_angle": 21.3,
+    "break_length": 7.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.12,
+    "pz": 2.44,
+    "start": 90.6,
+    "break_angle": 3.2,
+    "break_length": 6.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.14,
+    "pz": 4.02,
+    "start": 90.2,
+    "break_angle": 1.6,
+    "break_length": 7.2,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.37,
+    "pz": 2.19,
+    "start": 89.9,
+    "break_angle": 2.5,
+    "break_length": 7.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.19,
+    "pz": 2.47,
+    "start": 91.3,
+    "break_angle": 18.7,
+    "break_length": 8.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.36,
+    "pz": 0.59,
+    "start": 86.7,
+    "break_angle": 6.3,
+    "break_length": 11.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.97,
+    "pz": 2.52,
+    "start": 90.1,
+    "break_angle": 21.1,
+    "break_length": 9.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.08,
+    "pz": 2.2,
+    "start": 78.6,
+    "break_angle": -14.5,
+    "break_length": 15.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.18,
+    "pz": 1.6,
+    "start": 81.5,
+    "break_angle": 11.6,
+    "break_length": 9.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.57,
+    "pz": 3.55,
+    "start": 80.9,
+    "break_angle": 0.6,
+    "break_length": 8.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.72,
+    "pz": 1.56,
+    "start": 65.6,
+    "break_angle": -13.4,
+    "break_length": 18.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.61,
+    "pz": 3.26,
+    "start": 80.2,
+    "break_angle": -4.2,
+    "break_length": 7.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.58,
+    "pz": 2.53,
+    "start": 67.2,
+    "break_angle": -11.7,
+    "break_length": 17.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.48,
+    "pz": 2.88,
+    "start": 82.5,
+    "break_angle": 1.1,
+    "break_length": 6.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.33,
+    "pz": 2.35,
+    "start": 82,
+    "break_angle": -6,
+    "break_length": 12.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.24,
+    "pz": 1.8,
+    "start": 89.3,
+    "break_angle": 14.7,
+    "break_length": 10.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.23,
+    "pz": -0.43,
+    "start": 86.1,
+    "break_angle": 12.5,
+    "break_length": 11,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.23,
+    "pz": 3.06,
+    "start": 89.7,
+    "break_angle": 21.9,
+    "break_length": 8.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.68,
+    "pz": 3.5,
+    "start": 89.5,
+    "break_angle": 23,
+    "break_length": 8.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.54,
+    "pz": 2.42,
+    "start": 89.2,
+    "break_angle": 21.9,
+    "break_length": 9.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.87,
+    "pz": 1.01,
+    "start": 78.5,
+    "break_angle": -8.6,
+    "break_length": 16.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.68,
+    "pz": 3.15,
+    "start": 77.5,
+    "break_angle": -12.2,
+    "break_length": 16.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.47,
+    "pz": 2.45,
+    "start": 85.8,
+    "break_angle": 7,
+    "break_length": 11.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.35,
+    "pz": 3.38,
+    "start": 90.3,
+    "break_angle": 1.2,
+    "break_length": 6.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.08,
+    "pz": 2.27,
+    "start": 81.1,
+    "break_angle": 9.1,
+    "break_length": 8.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.74,
+    "pz": 3.24,
+    "start": 82.6,
+    "break_angle": 7.2,
+    "break_length": 7.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.87,
+    "pz": 2.94,
+    "start": 82.7,
+    "break_angle": 14.6,
+    "break_length": 7.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.22,
+    "pz": 1.85,
+    "start": 65.6,
+    "break_angle": -9.5,
+    "break_length": 19.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.26,
+    "pz": 4.85,
+    "start": 81.5,
+    "break_angle": -11.3,
+    "break_length": 8.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.47,
+    "pz": 1.82,
+    "start": 77,
+    "break_angle": -11.7,
+    "break_length": 13.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.44,
+    "pz": 1.87,
+    "start": 77.1,
+    "break_angle": -9.3,
+    "break_length": 13.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.81,
+    "pz": 3.34,
+    "start": 82.8,
+    "break_angle": -8.7,
+    "break_length": 7.7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.18,
+    "pz": 2.23,
+    "start": 81,
+    "break_angle": -8.8,
+    "break_length": 7.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.08,
+    "pz": 2.2,
+    "start": 64.5,
+    "break_angle": -11.6,
+    "break_length": 19.3,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.79,
+    "pz": 4.53,
+    "start": 81.2,
+    "break_angle": 10.9,
+    "break_length": 7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.43,
+    "pz": 1.87,
+    "start": 67,
+    "break_angle": -12.2,
+    "break_length": 18.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.04,
+    "pz": 2.09,
+    "start": 66.6,
+    "break_angle": -14.6,
+    "break_length": 17.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.99,
+    "pz": 1.01,
+    "start": 67.7,
+    "break_angle": -13.2,
+    "break_length": 18,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.62,
+    "pz": 1.7,
+    "start": 66.8,
+    "break_angle": -11.4,
+    "break_length": 19.3,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.17,
+    "pz": 2.78,
+    "start": 65.6,
+    "break_angle": -11.8,
+    "break_length": 19.6,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.23,
+    "pz": 3.01,
+    "start": 83.1,
+    "break_angle": 8,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.12,
+    "pz": 2.67,
+    "start": 84.3,
+    "break_angle": -4.2,
+    "break_length": 7.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.04,
+    "pz": 2.97,
+    "start": 83.7,
+    "break_angle": -2.5,
+    "break_length": 7.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.09,
+    "pz": 2.57,
+    "start": 68,
+    "break_angle": -13.5,
+    "break_length": 16.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.8,
+    "pz": 2.19,
+    "start": 76.9,
+    "break_angle": -10.9,
+    "break_length": 13.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.89,
+    "pz": 2.28,
+    "start": 83,
+    "break_angle": -7.5,
+    "break_length": 12.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.41,
+    "pz": 2.25,
+    "start": 85,
+    "break_angle": 10.7,
+    "break_length": 10.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.29,
+    "pz": 1.57,
+    "start": 87.1,
+    "break_angle": 16.8,
+    "break_length": 9.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.44,
+    "pz": 0.03,
+    "start": 86.4,
+    "break_angle": 5.2,
+    "break_length": 10.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.37,
+    "pz": 5.78,
+    "start": 89.7,
+    "break_angle": -4,
+    "break_length": 6.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.15,
+    "pz": 0.43,
+    "start": 86.6,
+    "break_angle": 9.2,
+    "break_length": 10.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.41,
+    "pz": 1.36,
+    "start": 91.2,
+    "break_angle": 18.6,
+    "break_length": 8.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.06,
+    "pz": 1.32,
+    "start": 89.7,
+    "break_angle": 15,
+    "break_length": 8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.59,
+    "pz": 1.82,
+    "start": 90.6,
+    "break_angle": 15.5,
+    "break_length": 9.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.88,
+    "pz": 1.47,
+    "start": 79.4,
+    "break_angle": -12.3,
+    "break_length": 16.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.16,
+    "pz": 0.54,
+    "start": 87.6,
+    "break_angle": 13.1,
+    "break_length": 10.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.61,
+    "pz": 1.5,
+    "start": 79.1,
+    "break_angle": -12.1,
+    "break_length": 17.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.34,
+    "pz": 1.51,
+    "start": 78.2,
+    "break_angle": -8.4,
+    "break_length": 16.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.57,
+    "pz": -0.35,
+    "start": 87.3,
+    "break_angle": 12.6,
+    "break_length": 10.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.66,
+    "pz": 2.17,
+    "start": 89.1,
+    "break_angle": 17.7,
+    "break_length": 9.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.41,
+    "pz": 1.85,
+    "start": 85.5,
+    "break_angle": 4.9,
+    "break_length": 12,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.18,
+    "pz": 1.21,
+    "start": 84.1,
+    "break_angle": -9.1,
+    "break_length": 12.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.63,
+    "pz": 1.5,
+    "start": 90.6,
+    "break_angle": 14.7,
+    "break_length": 8.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.4,
+    "pz": 0.21,
+    "start": 87.5,
+    "break_angle": 6.6,
+    "break_length": 12.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.86,
+    "pz": 3.41,
+    "start": 81.2,
+    "break_angle": 5.5,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.05,
+    "pz": 2.63,
+    "start": 83.7,
+    "break_angle": 10,
+    "break_length": 7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.14,
+    "pz": 1.71,
+    "start": 83,
+    "break_angle": 11.4,
+    "break_length": 8.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.48,
+    "pz": 4.38,
+    "start": 84.4,
+    "break_angle": -5.4,
+    "break_length": 7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.54,
+    "pz": 2.37,
+    "start": 73.6,
+    "break_angle": 13.1,
+    "break_length": 10.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.2,
+    "pz": 3.11,
+    "start": 82.5,
+    "break_angle": 13.3,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.67,
+    "pz": 2.34,
+    "start": 84.1,
+    "break_angle": 4.6,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.59,
+    "pz": 4.03,
+    "start": 84.2,
+    "break_angle": 0.6,
+    "break_length": 7.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.71,
+    "pz": 1.62,
+    "start": 82.3,
+    "break_angle": 16.1,
+    "break_length": 8.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.78,
+    "pz": 1.67,
+    "start": 72.3,
+    "break_angle": 14.6,
+    "break_length": 11.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.01,
+    "pz": 2.57,
+    "start": 86.6,
+    "break_angle": -6.6,
+    "break_length": 6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.08,
+    "pz": 1.77,
+    "start": 85,
+    "break_angle": 0.5,
+    "break_length": 7.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.91,
+    "pz": 3.14,
+    "start": 76.5,
+    "break_angle": -13.7,
+    "break_length": 16.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.95,
+    "pz": 2.2,
+    "start": 77.4,
+    "break_angle": -15.8,
+    "break_length": 16.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.47,
+    "pz": 2,
+    "start": 89.1,
+    "break_angle": 18.9,
+    "break_length": 10.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.03,
+    "pz": 2.78,
+    "start": 85.8,
+    "break_angle": 0.9,
+    "break_length": 9.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.21,
+    "pz": 2.74,
+    "start": 85.5,
+    "break_angle": 0.1,
+    "break_length": 9.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -2.5,
+    "pz": 3.59,
+    "start": 88.7,
+    "break_angle": 14.6,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.06,
+    "pz": 1.8,
+    "start": 86.6,
+    "break_angle": 12.1,
+    "break_length": 11.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.02,
+    "pz": 2.8,
+    "start": 85.6,
+    "break_angle": 5.5,
+    "break_length": 11.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.02,
+    "pz": -0.84,
+    "start": 87.3,
+    "break_angle": 16.5,
+    "break_length": 11.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.64,
+    "pz": 1.22,
+    "start": 86.1,
+    "break_angle": 8.4,
+    "break_length": 12.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.2,
+    "pz": 2.19,
+    "start": 91,
+    "break_angle": 17.9,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.01,
+    "pz": 1.37,
+    "start": 79.1,
+    "break_angle": -12.6,
+    "break_length": 16.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.34,
+    "pz": 2.14,
+    "start": 90.2,
+    "break_angle": 15.2,
+    "break_length": 8.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -2.06,
+    "pz": 3.62,
+    "start": 81.2,
+    "break_angle": 17,
+    "break_length": 9.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.72,
+    "pz": 0.63,
+    "start": 73.5,
+    "break_angle": 5.6,
+    "break_length": 11.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.03,
+    "pz": 2.99,
+    "start": 81,
+    "break_angle": 0.2,
+    "break_length": 8.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.54,
+    "pz": 2.35,
+    "start": 81.7,
+    "break_angle": 9.8,
+    "break_length": 7.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.15,
+    "pz": 1.85,
+    "start": 66.8,
+    "break_angle": -15.8,
+    "break_length": 17.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.37,
+    "pz": 3.11,
+    "start": 66.1,
+    "break_angle": -13,
+    "break_length": 19.7,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.6,
+    "pz": 3.72,
+    "start": 81.2,
+    "break_angle": -5.5,
+    "break_length": 7.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.52,
+    "pz": 3.37,
+    "start": 73.6,
+    "break_angle": 9.3,
+    "break_length": 9.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.52,
+    "pz": 3.02,
+    "start": 82.8,
+    "break_angle": -4.7,
+    "break_length": 6.9,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 1.1,
+    "pz": 1.61,
+    "start": 76.3,
+    "break_angle": -13.6,
+    "break_length": 12.5,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.69,
+    "pz": 1.92,
+    "start": 76.9,
+    "break_angle": -13.8,
+    "break_length": 13.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.65,
+    "pz": -0.17,
+    "start": 75.2,
+    "break_angle": 9.3,
+    "break_length": 10.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.98,
+    "pz": 0.1,
+    "start": 69.9,
+    "break_angle": -7.2,
+    "break_length": 16.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.39,
+    "pz": 2.82,
+    "start": 73.6,
+    "break_angle": 10.4,
+    "break_length": 10,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.54,
+    "pz": 2.93,
+    "start": 82.7,
+    "break_angle": 11.3,
+    "break_length": 7.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.26,
+    "pz": 1.48,
+    "start": 83.1,
+    "break_angle": 10.9,
+    "break_length": 8.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.37,
+    "pz": 2.45,
+    "start": 83.6,
+    "break_angle": 12.4,
+    "break_length": 8.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.24,
+    "pz": 2.86,
+    "start": 82.5,
+    "break_angle": -5.7,
+    "break_length": 8.5,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.76,
+    "pz": 1.57,
+    "start": 68.3,
+    "break_angle": -13.1,
+    "break_length": 17.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.87,
+    "pz": 2.77,
+    "start": 82.8,
+    "break_angle": -4.1,
+    "break_length": 8.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.77,
+    "pz": 1.24,
+    "start": 76.1,
+    "break_angle": 9,
+    "break_length": 10.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.23,
+    "pz": 2.01,
+    "start": 76.2,
+    "break_angle": -4.6,
+    "break_length": 13.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.06,
+    "pz": 3.17,
+    "start": 75.4,
+    "break_angle": -9.1,
+    "break_length": 13.2,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.1,
+    "pz": 2.67,
+    "start": 88.5,
+    "break_angle": 21,
+    "break_length": 8.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.39,
+    "pz": 1.44,
+    "start": 90.4,
+    "break_angle": 14,
+    "break_length": 8.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.14,
+    "pz": 0.84,
+    "start": 78.9,
+    "break_angle": -13,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.85,
+    "pz": 1.28,
+    "start": 79,
+    "break_angle": -13.8,
+    "break_length": 15,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1,
+    "pz": 3.21,
+    "start": 79.2,
+    "break_angle": -11.8,
+    "break_length": 14.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.56,
+    "pz": 2.34,
+    "start": 89.8,
+    "break_angle": 15.5,
+    "break_length": 8.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.19,
+    "pz": 1.32,
+    "start": 78.6,
+    "break_angle": -11.3,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.88,
+    "pz": 3.34,
+    "start": 91.3,
+    "break_angle": 12.7,
+    "break_length": 6.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.33,
+    "pz": 1.53,
+    "start": 78.4,
+    "break_angle": -12.3,
+    "break_length": 16.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.14,
+    "pz": 1.5,
+    "start": 89.6,
+    "break_angle": 23.7,
+    "break_length": 9.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -1.84,
+    "pz": 2.06,
+    "start": 90.6,
+    "break_angle": 25.2,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.03,
+    "pz": 3.08,
+    "start": 89.6,
+    "break_angle": 19.8,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.03,
+    "pz": 3.86,
+    "start": 89.9,
+    "break_angle": 2,
+    "break_length": 6.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.78,
+    "pz": 3.64,
+    "start": 82.5,
+    "break_angle": 11.5,
+    "break_length": 7.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.27,
+    "pz": 3.86,
+    "start": 74.2,
+    "break_angle": 11.1,
+    "break_length": 9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.34,
+    "pz": 2.36,
+    "start": 73.5,
+    "break_angle": 6,
+    "break_length": 9.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.41,
+    "pz": 1.69,
+    "start": 80.4,
+    "break_angle": 3.3,
+    "break_length": 8.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.18,
+    "pz": 1.02,
+    "start": 68.4,
+    "break_angle": -10,
+    "break_length": 15.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.98,
+    "pz": 3.01,
+    "start": 66.5,
+    "break_angle": -12.1,
+    "break_length": 17.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.45,
+    "pz": 1.62,
+    "start": 66.1,
+    "break_angle": -9,
+    "break_length": 17.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.44,
+    "pz": 1.61,
+    "start": 77.1,
+    "break_angle": -8.7,
+    "break_length": 12.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.14,
+    "pz": 2.5,
+    "start": 76.6,
+    "break_angle": -15,
+    "break_length": 16.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.99,
+    "pz": 2.12,
+    "start": 88.9,
+    "break_angle": 16.7,
+    "break_length": 9.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.74,
+    "pz": 0.55,
+    "start": 86.8,
+    "break_angle": 10.9,
+    "break_length": 11.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.09,
+    "pz": 3.93,
+    "start": 90.4,
+    "break_angle": 7.3,
+    "break_length": 6.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.04,
+    "pz": 2.52,
+    "start": 90.1,
+    "break_angle": 15.6,
+    "break_length": 9.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -1.06,
+    "pz": 3.71,
+    "start": 89.2,
+    "break_angle": 15,
+    "break_length": 8.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.19,
+    "pz": 2.28,
+    "start": 89.6,
+    "break_angle": 16.4,
+    "break_length": 7.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.91,
+    "pz": 1.42,
+    "start": 79.7,
+    "break_angle": -10.7,
+    "break_length": 15.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.61,
+    "pz": 2.82,
+    "start": 90.5,
+    "break_angle": 8.5,
+    "break_length": 7.2,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.88,
+    "pz": 2.07,
+    "start": 91.2,
+    "break_angle": 7.6,
+    "break_length": 7.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.15,
+    "pz": 2.66,
+    "start": 89.9,
+    "break_angle": -24.2,
+    "break_length": 8.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.68,
+    "pz": 1.63,
+    "start": 90.6,
+    "break_angle": -27.8,
+    "break_length": 8.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.96,
+    "pz": 1.49,
+    "start": 90.9,
+    "break_angle": -23.4,
+    "break_length": 7.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.85,
+    "pz": 3.38,
+    "start": 90.6,
+    "break_angle": -29.5,
+    "break_length": 8.4,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -1.56,
+    "pz": 2.27,
+    "start": 84.3,
+    "break_angle": -0.1,
+    "break_length": 9.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.58,
+    "pz": 1.36,
+    "start": 91.1,
+    "break_angle": -22.3,
+    "break_length": 9.4,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.18,
+    "pz": 2.66,
+    "start": 70.5,
+    "break_angle": 6.7,
+    "break_length": 18.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.59,
+    "pz": 2.64,
+    "start": 70,
+    "break_angle": 6.3,
+    "break_length": 19.8,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.48,
+    "pz": 2.19,
+    "start": 68.9,
+    "break_angle": 8.5,
+    "break_length": 19.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 1.24,
+    "pz": 1.72,
+    "start": 91.2,
+    "break_angle": -23.3,
+    "break_length": 9.4,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.73,
+    "pz": 1.75,
+    "start": 91.3,
+    "break_angle": -24.6,
+    "break_length": 10,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.5,
+    "pz": 1.74,
+    "start": 91.5,
+    "break_angle": -27.4,
+    "break_length": 9.9,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.63,
+    "pz": 2.68,
+    "start": 91.1,
+    "break_angle": -26.9,
+    "break_length": 9.9,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.72,
+    "pz": 2.56,
+    "start": 91.9,
+    "break_angle": -28.6,
+    "break_length": 9.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.82,
+    "pz": 3.3,
+    "start": 91.5,
+    "break_angle": -21.5,
+    "break_length": 9.3,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.1,
+    "pz": 4.07,
+    "start": 90.6,
+    "break_angle": -24.8,
+    "break_length": 8.1,
+    "pitch_type": "SI"
+  },
+  {
+    "px": -0.62,
+    "pz": 3.71,
+    "start": 90.2,
+    "break_angle": -21.9,
+    "break_length": 8.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.95,
+    "pz": 4.37,
+    "start": 89.7,
+    "break_angle": -25.9,
+    "break_length": 8.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.43,
+    "pz": 2.89,
+    "start": 90.2,
+    "break_angle": -22.8,
+    "break_length": 9.2,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.11,
+    "pz": 3.36,
+    "start": 91.1,
+    "break_angle": -21.1,
+    "break_length": 8.5,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.76,
+    "pz": 2.75,
+    "start": 91.3,
+    "break_angle": -19.5,
+    "break_length": 8.4,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 1.16,
+    "pz": 3.67,
+    "start": 88.8,
+    "break_angle": -22.8,
+    "break_length": 8.8,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.09,
+    "pz": 2.92,
+    "start": 88.9,
+    "break_angle": 4.4,
+    "break_length": 7,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0,
+    "pz": 2.52,
+    "start": 90.3,
+    "break_angle": -2.2,
+    "break_length": 6,
+    "pitch_type": "FC"
+  },
+  {
+    "px": -0.65,
+    "pz": 3.53,
+    "start": 88.7,
+    "break_angle": -3.8,
+    "break_length": 6.4,
+    "pitch_type": "FC"
+  },
+  {
+    "px": 0.24,
+    "pz": 1.43,
+    "start": 91.8,
+    "break_angle": 18.6,
+    "break_length": 7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.5,
+    "pz": 1.56,
+    "start": 91.4,
+    "break_angle": 12.5,
+    "break_length": 6.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.15,
+    "pz": 2.29,
+    "start": 92.3,
+    "break_angle": 7.8,
+    "break_length": 5.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.32,
+    "pz": 4.15,
+    "start": 93.6,
+    "break_angle": 12.3,
+    "break_length": 5.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.84,
+    "pz": 0.51,
+    "start": 74.7,
+    "break_angle": -11,
+    "break_length": 17.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -0.41,
+    "pz": 3.45,
+    "start": 93,
+    "break_angle": 25.2,
+    "break_length": 5.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.87,
+    "pz": 1.44,
+    "start": 80.4,
+    "break_angle": 14.7,
+    "break_length": 12.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.32,
+    "pz": 2.05,
+    "start": 81.8,
+    "break_angle": 13.1,
+    "break_length": 11.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.68,
+    "pz": 1.49,
+    "start": 92,
+    "break_angle": -28.8,
+    "break_length": 7.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.52,
+    "pz": 0.41,
+    "start": 82.3,
+    "break_angle": 14.8,
+    "break_length": 12.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.86,
+    "pz": 0.44,
+    "start": 83.1,
+    "break_angle": 10.8,
+    "break_length": 12.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.03,
+    "pz": 1.59,
+    "start": 92.2,
+    "break_angle": -12,
+    "break_length": 7.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.1,
+    "pz": 1.85,
+    "start": 93.7,
+    "break_angle": 17.9,
+    "break_length": 10.7,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.72,
+    "pz": 2.01,
+    "start": 84,
+    "break_angle": -18.3,
+    "break_length": 13.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.13,
+    "pz": 1.44,
+    "start": 85.8,
+    "break_angle": -11.5,
+    "break_length": 12.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.04,
+    "pz": 2.77,
+    "start": 92.9,
+    "break_angle": 12.9,
+    "break_length": 9.6,
+    "pitch_type": "SI"
+  },
+  {
+    "px": 0.91,
+    "pz": 2.92,
+    "start": 88.2,
+    "break_angle": 5.3,
+    "break_length": 6.9,
+    "pitch_type": "KC"
+  },
+  {
+    "px": 1.73,
+    "pz": 1.85,
+    "start": 82.1,
+    "break_angle": -5.7,
+    "break_length": 11.2,
+    "pitch_type": "KC"
+  },
+  {
+    "px": 0.34,
+    "pz": 3.7,
+    "start": 88.2,
+    "break_angle": 4.3,
+    "break_length": 6.9,
+    "pitch_type": "KC"
+  },
+  {
+    "px": 0.88,
+    "pz": 0.99,
+    "start": 82.3,
+    "break_angle": -3.1,
+    "break_length": 11.9,
+    "pitch_type": "KC"
+  },
+  {
+    "px": 0.35,
+    "pz": 1.89,
+    "start": 80.3,
+    "break_angle": -2,
+    "break_length": 12.1,
+    "pitch_type": "KC"
+  },
+  {
+    "px": -1.89,
+    "pz": 3.7,
+    "start": 88.6,
+    "break_angle": 20,
+    "break_length": 6.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.41,
+    "pz": 2.06,
+    "start": 89.1,
+    "break_angle": 18.1,
+    "break_length": 6.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.97,
+    "pz": 3.63,
+    "start": 83.1,
+    "break_angle": 12.3,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.01,
+    "pz": 2.77,
+    "start": 88.2,
+    "break_angle": 18.1,
+    "break_length": 7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.28,
+    "pz": 3.74,
+    "start": 90.1,
+    "break_angle": 15.3,
+    "break_length": 6.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.27,
+    "pz": 4.01,
+    "start": 89.7,
+    "break_angle": 1.6,
+    "break_length": 5.9,
+    "pitch_type": "KC"
+  },
+  {
+    "px": -0.07,
+    "pz": 2.22,
+    "start": 82.5,
+    "break_angle": 11.7,
+    "break_length": 9.1,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 1.07,
+    "pz": 3.33,
+    "start": 93.6,
+    "break_angle": 18.6,
+    "break_length": 5.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.35,
+    "pz": 1.49,
+    "start": 91.3,
+    "break_angle": 24.6,
+    "break_length": 9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.61,
+    "pz": 1.46,
+    "start": 92.5,
+    "break_angle": 17.1,
+    "break_length": 7.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.75,
+    "pz": 2,
+    "start": 94.9,
+    "break_angle": 23.5,
+    "break_length": 8.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.46,
+    "pz": 2.89,
+    "start": 93.2,
+    "break_angle": 26.3,
+    "break_length": 8.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.29,
+    "pz": 2.11,
+    "start": 95.6,
+    "break_angle": 11.6,
+    "break_length": 6.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.11,
+    "pz": 1.66,
+    "start": 93.4,
+    "break_angle": 20.2,
+    "break_length": 8.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.24,
+    "pz": 1.57,
+    "start": 81.7,
+    "break_angle": 16.7,
+    "break_length": 12,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.43,
+    "pz": 1.48,
+    "start": 94.2,
+    "break_angle": 18.1,
+    "break_length": 6.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.77,
+    "pz": 2.33,
+    "start": 82.8,
+    "break_angle": 17.9,
+    "break_length": 10.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.96,
+    "pz": 3.11,
+    "start": 94,
+    "break_angle": 19.6,
+    "break_length": 5.7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.67,
+    "pz": 3.84,
+    "start": 95.7,
+    "break_angle": 29.7,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.13,
+    "pz": 1.96,
+    "start": 96.8,
+    "break_angle": 14.4,
+    "break_length": 6.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.128,
+    "pz": 3.194,
+    "start": 91.1,
+    "break_angle": 20.1,
+    "break_length": 4.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.65,
+    "pz": 1.757,
+    "start": 92.9,
+    "break_angle": 27.4,
+    "break_length": 5.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.751,
+    "pz": 1.753,
+    "start": 92,
+    "break_angle": 21.9,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.841,
+    "pz": 2.54,
+    "start": 92.3,
+    "break_angle": 36.7,
+    "break_length": 6.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.73,
+    "pz": 1.591,
+    "start": 90.6,
+    "break_angle": 28.8,
+    "break_length": 6.7,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.446,
+    "pz": 1.985,
+    "start": 85.8,
+    "break_angle": 19.6,
+    "break_length": 8.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.339,
+    "pz": 1.665,
+    "start": 86.5,
+    "break_angle": 22.8,
+    "break_length": 8.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.185,
+    "pz": 3.632,
+    "start": 91.5,
+    "break_angle": 29.9,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.399,
+    "pz": 3.182,
+    "start": 81.1,
+    "break_angle": 23.5,
+    "break_length": 9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.93,
+    "pz": 2.859,
+    "start": 91.1,
+    "break_angle": 27.9,
+    "break_length": 6.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.654,
+    "pz": 3.524,
+    "start": 92.8,
+    "break_angle": 28.5,
+    "break_length": 4.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.751,
+    "pz": 2.574,
+    "start": 83.1,
+    "break_angle": -9.9,
+    "break_length": 10,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.309,
+    "pz": 1.719,
+    "start": 91.3,
+    "break_angle": 32.1,
+    "break_length": 4.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.134,
+    "pz": 1.852,
+    "start": 90.2,
+    "break_angle": 29.4,
+    "break_length": 5.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.268,
+    "pz": 1.986,
+    "start": 89.4,
+    "break_angle": 31.7,
+    "break_length": 5.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.705,
+    "pz": 1.707,
+    "start": 80.3,
+    "break_angle": 25.6,
+    "break_length": 8.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.71,
+    "pz": 1.183,
+    "start": 73.1,
+    "break_angle": -13.9,
+    "break_length": 13.1,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.626,
+    "pz": 1.998,
+    "start": 89.1,
+    "break_angle": 28.2,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.485,
+    "pz": 2.349,
+    "start": 91.5,
+    "break_angle": 20,
+    "break_length": 3.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.218,
+    "pz": 2.561,
+    "start": 89.5,
+    "break_angle": 32.4,
+    "break_length": 6.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 1.138,
+    "pz": 1.419,
+    "start": 80.9,
+    "break_angle": -6.2,
+    "break_length": 9.1,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.46,
+    "pz": 2.028,
+    "start": 93.5,
+    "break_angle": 29.1,
+    "break_length": 3.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 1.469,
+    "pz": 1.258,
+    "start": 79.2,
+    "break_angle": -17,
+    "break_length": 11.7,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.59,
+    "pz": 1.134,
+    "start": 78.7,
+    "break_angle": -14.9,
+    "break_length": 10.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.261,
+    "pz": 2.501,
+    "start": 94.4,
+    "break_angle": 27.7,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.311,
+    "pz": 1.409,
+    "start": 89.7,
+    "break_angle": 26.7,
+    "break_length": 5.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.133,
+    "pz": 1.516,
+    "start": 90.3,
+    "break_angle": 37.2,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.727,
+    "pz": 2.854,
+    "start": 91.7,
+    "break_angle": 31.7,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.748,
+    "pz": 2.314,
+    "start": 89,
+    "break_angle": 31.2,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.184,
+    "pz": 2.006,
+    "start": 92.1,
+    "break_angle": 31.1,
+    "break_length": 5.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.878,
+    "pz": 2.765,
+    "start": 89.8,
+    "break_angle": 36.9,
+    "break_length": 7.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.58,
+    "pz": 1.73,
+    "start": 90.4,
+    "break_angle": 38.1,
+    "break_length": 6.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.599,
+    "pz": 2.488,
+    "start": 78.7,
+    "break_angle": -10.6,
+    "break_length": 11.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.191,
+    "pz": 1.301,
+    "start": 79.2,
+    "break_angle": -9,
+    "break_length": 11.6,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.13,
+    "pz": 3.569,
+    "start": 94.2,
+    "break_angle": 33.6,
+    "break_length": 5.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.88,
+    "pz": 2.135,
+    "start": 90.8,
+    "break_angle": 42.7,
+    "break_length": 6.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.652,
+    "pz": 1.661,
+    "start": 89.7,
+    "break_angle": 40.2,
+    "break_length": 6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.31,
+    "pz": 2.859,
+    "start": 81.7,
+    "break_angle": 26.2,
+    "break_length": 8.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.864,
+    "pz": -0.067,
+    "start": 77.5,
+    "break_angle": -7.8,
+    "break_length": 12.2,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -2.004,
+    "pz": 2.434,
+    "start": 88.2,
+    "break_angle": 29,
+    "break_length": 6.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.046,
+    "pz": 3.507,
+    "start": 92.7,
+    "break_angle": 22.7,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.437,
+    "pz": 2.013,
+    "start": 90.5,
+    "break_angle": 31.5,
+    "break_length": 6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.478,
+    "pz": 1.173,
+    "start": 72.8,
+    "break_angle": -12.8,
+    "break_length": 14.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.284,
+    "pz": 1.82,
+    "start": 78.9,
+    "break_angle": -8,
+    "break_length": 10.8,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.575,
+    "pz": 2.846,
+    "start": 93.3,
+    "break_angle": 21.5,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.416,
+    "pz": 3.986,
+    "start": 90.5,
+    "break_angle": 16.9,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.736,
+    "pz": 3.262,
+    "start": 87.6,
+    "break_angle": 14.4,
+    "break_length": 5.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.116,
+    "pz": 3.073,
+    "start": 88.5,
+    "break_angle": 10.2,
+    "break_length": 4.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.322,
+    "pz": 2.029,
+    "start": 90.1,
+    "break_angle": 29,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.516,
+    "pz": 1.863,
+    "start": 87.2,
+    "break_angle": 8.4,
+    "break_length": 8.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.502,
+    "pz": 1.179,
+    "start": 90.4,
+    "break_angle": 17.8,
+    "break_length": 4.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.67,
+    "pz": 0.954,
+    "start": 87.1,
+    "break_angle": 3.9,
+    "break_length": 7.8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.453,
+    "pz": 2.982,
+    "start": 86.1,
+    "break_angle": 14.5,
+    "break_length": 7.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -2.024,
+    "pz": 3.322,
+    "start": 88.6,
+    "break_angle": 24.2,
+    "break_length": 7.4,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.197,
+    "pz": 2.603,
+    "start": 89.8,
+    "break_angle": 24,
+    "break_length": 6.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.246,
+    "pz": 2.389,
+    "start": 71.5,
+    "break_angle": -15.1,
+    "break_length": 15.5,
+    "pitch_type": "CU"
+  },
+  {
+    "px": 0.715,
+    "pz": 4.784,
+    "start": 90.1,
+    "break_angle": 11.9,
+    "break_length": 4.8,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.942,
+    "pz": 1.238,
+    "start": 79.4,
+    "break_angle": -12.1,
+    "break_length": 11,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.475,
+    "pz": 2.936,
+    "start": 92.2,
+    "break_angle": 13.7,
+    "break_length": 4.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.373,
+    "pz": 2.27,
+    "start": 89.6,
+    "break_angle": 28.8,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.234,
+    "pz": 2.012,
+    "start": 79.7,
+    "break_angle": -14.2,
+    "break_length": 11.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.29,
+    "pz": 2.488,
+    "start": 90.5,
+    "break_angle": 12.5,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.072,
+    "pz": 2.824,
+    "start": 92.5,
+    "break_angle": 19,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.502,
+    "pz": 3.422,
+    "start": 91.5,
+    "break_angle": 17.4,
+    "break_length": 4.9,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.994,
+    "pz": 3.026,
+    "start": 78.2,
+    "break_angle": -8.5,
+    "break_length": 11.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.633,
+    "pz": 2.571,
+    "start": 91.6,
+    "break_angle": 20.4,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.093,
+    "pz": 1.257,
+    "start": 80.5,
+    "break_angle": -9,
+    "break_length": 9.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.494,
+    "pz": 3.026,
+    "start": 93,
+    "break_angle": 14.4,
+    "break_length": 4.5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.771,
+    "pz": 2.67,
+    "start": 88.4,
+    "break_angle": 22.1,
+    "break_length": 8.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.679,
+    "pz": 2.547,
+    "start": 90.8,
+    "break_angle": 14.7,
+    "break_length": 5.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.276,
+    "pz": 2.836,
+    "start": 52.9,
+    "break_angle": -5.9,
+    "break_length": 23.7,
+    "pitch_type": "EP"
+  },
+  {
+    "px": 0.471,
+    "pz": 3.014,
+    "start": 91.1,
+    "break_angle": 26.5,
+    "break_length": 4.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.396,
+    "pz": 0.939,
+    "start": 85.8,
+    "break_angle": 10.8,
+    "break_length": 9.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.413,
+    "pz": 2.64,
+    "start": 92.5,
+    "break_angle": 23.5,
+    "break_length": 4.7,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.277,
+    "pz": 2.311,
+    "start": 87.4,
+    "break_angle": 11.6,
+    "break_length": 8.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.277,
+    "pz": 3.027,
+    "start": 86.4,
+    "break_angle": 6.3,
+    "break_length": 7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -2.037,
+    "pz": 2.965,
+    "start": 93.4,
+    "break_angle": 19.5,
+    "break_length": 4.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.459,
+    "pz": 1.869,
+    "start": 87,
+    "break_angle": 12.9,
+    "break_length": 7.4,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.121,
+    "pz": 1.842,
+    "start": 82.9,
+    "break_angle": -12.7,
+    "break_length": 9.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.372,
+    "pz": 2.923,
+    "start": 91.2,
+    "break_angle": 26.9,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.145,
+    "pz": 2.257,
+    "start": 87.3,
+    "break_angle": 12.4,
+    "break_length": 7.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.973,
+    "pz": 2.522,
+    "start": 91.6,
+    "break_angle": 30.6,
+    "break_length": 5.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.867,
+    "pz": 2.393,
+    "start": 87.1,
+    "break_angle": 8.6,
+    "break_length": 7.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.033,
+    "pz": 2.544,
+    "start": 71.7,
+    "break_angle": -15.6,
+    "break_length": 15.4,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.265,
+    "pz": 1.756,
+    "start": 90.1,
+    "break_angle": 29.3,
+    "break_length": 6.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.08,
+    "pz": 1.15,
+    "start": 79.1,
+    "break_angle": -12.4,
+    "break_length": 10.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.995,
+    "pz": 2.234,
+    "start": 92.3,
+    "break_angle": 12.5,
+    "break_length": 4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.122,
+    "pz": 2.478,
+    "start": 78.9,
+    "break_angle": -12.9,
+    "break_length": 10.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -1.478,
+    "pz": 3.406,
+    "start": 88.5,
+    "break_angle": 19.8,
+    "break_length": 6.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.216,
+    "pz": 2.557,
+    "start": 79.4,
+    "break_angle": -10.3,
+    "break_length": 11.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.931,
+    "pz": 2.661,
+    "start": 91.9,
+    "break_angle": 18.7,
+    "break_length": 4.2,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.243,
+    "pz": 2.491,
+    "start": 89.6,
+    "break_angle": 29.6,
+    "break_length": 6.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.685,
+    "pz": 1.612,
+    "start": 90.7,
+    "break_angle": 28.7,
+    "break_length": 7.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.149,
+    "pz": 1.716,
+    "start": 81.1,
+    "break_angle": 20.5,
+    "break_length": 8.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.127,
+    "pz": 2.205,
+    "start": 90.2,
+    "break_angle": 33.7,
+    "break_length": 7.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.669,
+    "pz": 1.776,
+    "start": 89.8,
+    "break_angle": 23.8,
+    "break_length": 6.8,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.965,
+    "pz": 2.849,
+    "start": 90.2,
+    "break_angle": 28.1,
+    "break_length": 5.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -1.095,
+    "pz": 1.681,
+    "start": 88.9,
+    "break_angle": 33.3,
+    "break_length": 5.3,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.12,
+    "pz": 2.555,
+    "start": 88.9,
+    "break_angle": 37.2,
+    "break_length": 5.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.461,
+    "pz": 2.318,
+    "start": 91.3,
+    "break_angle": 18.6,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.299,
+    "pz": 3.351,
+    "start": 81,
+    "break_angle": -10.7,
+    "break_length": 8.4,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 0.577,
+    "pz": 2.045,
+    "start": 91.8,
+    "break_angle": 14.5,
+    "break_length": 5.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.561,
+    "pz": 0.324,
+    "start": 88.6,
+    "break_angle": 11.5,
+    "break_length": 7.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.092,
+    "pz": 2.094,
+    "start": 90.6,
+    "break_angle": 30.8,
+    "break_length": 6.5,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.719,
+    "pz": 3.783,
+    "start": 91.2,
+    "break_angle": 24.9,
+    "break_length": 5.1,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.152,
+    "pz": 2.237,
+    "start": 85.7,
+    "break_angle": 10.5,
+    "break_length": 8,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.007,
+    "pz": 2.488,
+    "start": 88.8,
+    "break_angle": 22.9,
+    "break_length": 7.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.203,
+    "pz": 2.775,
+    "start": 78.4,
+    "break_angle": -7.9,
+    "break_length": 10.9,
+    "pitch_type": "SL"
+  },
+  {
+    "px": 1.237,
+    "pz": 0.019,
+    "start": 79.1,
+    "break_angle": -10.6,
+    "break_length": 11.3,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.02,
+    "pz": 3.575,
+    "start": 92.9,
+    "break_angle": 23.2,
+    "break_length": 5.4,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.55,
+    "pz": 3.117,
+    "start": 89,
+    "break_angle": 23.1,
+    "break_length": 7.3,
+    "pitch_type": "FT"
+  },
+  {
+    "px": 0.23,
+    "pz": 2.06,
+    "start": 91.2,
+    "break_angle": 32.2,
+    "break_length": 5.6,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.004,
+    "pz": 4.61,
+    "start": 90.8,
+    "break_angle": 21.5,
+    "break_length": 5.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.542,
+    "pz": 1.049,
+    "start": 72.4,
+    "break_angle": -11.5,
+    "break_length": 15.9,
+    "pitch_type": "CU"
+  },
+  {
+    "px": -1.096,
+    "pz": 2.672,
+    "start": 92.3,
+    "break_angle": 26.1,
+    "break_length": 4.3,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.889,
+    "pz": 2.147,
+    "start": 90.3,
+    "break_angle": 28.5,
+    "break_length": 6.9,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.247,
+    "pz": 2.985,
+    "start": 88.8,
+    "break_angle": 22.7,
+    "break_length": 7.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": "",
+    "pz": "",
+    "start": "",
+    "break_angle": "",
+    "break_length": "",
+    "pitch_type": ""
+  },
+  {
+    "px": 0.643,
+    "pz": 2.538,
+    "start": 88.7,
+    "break_angle": 35.3,
+    "break_length": 6.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.032,
+    "pz": 1.951,
+    "start": 88.2,
+    "break_angle": 31.3,
+    "break_length": 6.7,
+    "pitch_type": "CH"
+  },
+  {
+    "px": "",
+    "pz": "",
+    "start": "",
+    "break_angle": "",
+    "break_length": "",
+    "pitch_type": ""
+  },
+  {
+    "px": 0.39,
+    "pz": 1.527,
+    "start": 92.4,
+    "break_angle": 24.9,
+    "break_length": 4.1,
+    "pitch_type": "FF"
+  },
+  {
+    "px": 0.506,
+    "pz": 2.935,
+    "start": 92.1,
+    "break_angle": 30,
+    "break_length": 6.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -0.737,
+    "pz": 1.294,
+    "start": 84.8,
+    "break_angle": -8.4,
+    "break_length": 6.2,
+    "pitch_type": "SL"
+  },
+  {
+    "px": -0.005,
+    "pz": 1.191,
+    "start": 88,
+    "break_angle": 14.8,
+    "break_length": 7.9,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.318,
+    "pz": 3.41,
+    "start": 90,
+    "break_angle": 24.9,
+    "break_length": 5,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.075,
+    "pz": 1.742,
+    "start": 89.2,
+    "break_angle": 30.4,
+    "break_length": 5.2,
+    "pitch_type": "CH"
+  },
+  {
+    "px": 0.318,
+    "pz": 1.87,
+    "start": 90,
+    "break_angle": 33.1,
+    "break_length": 4.6,
+    "pitch_type": "FF"
+  },
+  {
+    "px": -0.945,
+    "pz": 2.74,
+    "start": 86.7,
+    "break_angle": 16.2,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -1.586,
+    "pz": 1.992,
+    "start": 84.1,
+    "break_angle": 24.8,
+    "break_length": 7.6,
+    "pitch_type": "CH"
+  },
+  {
+    "px": -0.016,
+    "pz": 0.802,
+    "start": 91.8,
+    "break_angle": 28.6,
+    "break_length": 5.2,
+    "pitch_type": "FT"
+  },
+  {
+    "px": -1.352,
+    "pz": 2.841,
+    "start": 86.6,
+    "break_angle": 12.1,
+    "break_length": 7.5,
+    "pitch_type": "CH"
+  }
+]
